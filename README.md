@@ -4,7 +4,7 @@ I have couple of tags.
 
 Chinese / Master Student in Data Science at University of San Francisco / beginner minimalist / photographer / Coffeeholic / road trip lover / living with black cat
 
-You could learn more about me in [my personal website]('https://yoliwu.com/')
+You could learn more about me in [my personal website](https://yoliwu.com/)
 
 
 ### Prediction of implicit rating in music recommendation system using matrix factorization and neural network
